@@ -203,7 +203,7 @@ A **deed** is a written legal document used to transfer ownership of real estate
 
 Yes, an **easement deed** exists and is a legal document that grants or reserves an easement. An easement is a legal right to use another person's property for a specific purpose without owning it. Easement deeds formalize the granting of these rights and are often used in real estate when one property owner needs access or usage rights over a neighboring property for purposes such as access, utilities, or drainage.
 
-### Types of Easement Deeds:
+## **Types of Easement Deeds:**
 
 1. **Grant of Easement**:
    - This type of deed grants another party the legal right to use a portion of the property for a specific purpose. For example, a homeowner may grant an easement to a utility company to run electrical lines across their property.
@@ -238,6 +238,6 @@ Yes, an **easement deed** exists and is a legal document that grants or reserves
 - Easements can sometimes reduce property value or limit its development potential, so it's essential to identify them during the title search process.
 
 In summary, an **easement deed** is a legal tool used to grant or reserve specific rights of access or usage on a property, and it's an important consideration in real estate transactions and title examinations.
----
 
 By understanding these deed types, you can determine the most appropriate one for any real estate transaction based on the level of protection, risk, and specific circumstances involved.
+---
